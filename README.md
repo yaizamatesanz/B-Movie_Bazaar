@@ -28,4 +28,7 @@ Welcome to my first project from the bootcamp, where I created a simulation of a
 ## ❤️ Personal Note  
 This project is not only a reflection of my technical skills but also of my creativity. By choosing a theme like B-movies, I wanted to show that learning can be fun and meaningful.  
 
-Thank you for taking the time to review my work! I hope you enjoy it as much as I did while developing it. 💡  
+Thank you for taking the time to review my work! I hope you enjoy it as much as I did while developing it. 💡 
+
+🌟 **Let’s connect! Check out my [LinkedIn profile](https://www.linkedin.com/in/yaiza-matesanz-aviles)** for more about me and my work.
+
