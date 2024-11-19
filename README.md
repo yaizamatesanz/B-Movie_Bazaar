@@ -1,44 +1,31 @@
-# Evaluación final del módulo 1 del Bootcamp Data Analytics
+# 🛒 B-Movie Bazaar  
+**Final Evaluation of Module 1** | Data Analytics Bootcamp  
 
-## Tiendaonline
+## Description  
+Welcome to my first project from the bootcamp, where I created a simulation of an online store with a unique twist: it’s a store for B-movie films! This exercise combines object-oriented programming with ecommerce concepts, managing inventory and sales efficiently.
 
-### Descripción del ejercicio:
+### 🎥 Main Features  
+- **Add products**: Add new items to the inventory or update existing quantities.  
+- **View inventory**: Display all available products.  
+- **Search products**: Find products by name or pattern using regular expressions (regex).  
+- **Update stock**: Modify product quantities in the inventory.  
+- **Remove products**: Delete items from the inventory.  
+- **Calculate inventory value**: Determine the total value of all available products.  
+- **Make purchases**: Simulate the purchase process by selecting products from the inventory.  
+- **Process payments**: Calculate the change after processing a purchase.  
+- **Customer management**: Register new customers and their purchase history.  
+- **Analyze sales**: Calculate the total sales of the ecommerce store.  
 
-Este ejercicio implementa una clase, `Tiendaonline`, que permite gestionar un inventario y las ventas de un ecommerce.
+## 🗂️ File Structure  
+- `evaluacion_final_mod_1.ipynb`: Contains the implementation of the `Tiendaonline` class with usage examples.  
+- `README.md`: This documentation for the project.  
 
-❤️ Para darle un toque más personal, lo he aplicado a una tienda de películas de serie B.
+## 🚀 How to Run It  
+1. Download or clone this repository to your local machine.  
+2. Open the file `evaluacion_final_mod_1.ipynb` in a Jupyter Notebook environment.  
+3. Explore the code and test the features of the `Tiendaonline` class.  
 
-### Qué archivos te encontrarás:
+## ❤️ Personal Note  
+This project is not only a reflection of my technical skills but also of my creativity. By choosing a theme like B-movies, I wanted to show that learning can be fun and meaningful.  
 
-- `evaluacion_final_mod_1.ipynb`: Archivo que contiene la implementación de la clase `Tiendaonline` y un ejemplo de uso.
-- `README.md`: Archivo de documentación del ejercicio.
-
-### Estas son las características del ejercicio:
-
-- **Agregar productos**: Nos permite añadir productos al inventario o actualizar la cantidad si el producto ya existe.
-
-- **Ver inventario**: Nos muestra todos los productos disponibles dentro del inventario.
-
-- **Buscar producto dentro del inventario**: Nos permite buscar un producto por su nombre.
-
-- **Actualizar stock dentro del inventario**: Actualiza la cantidad de un producto.
-
-- **Eliminar producto dentro del inventario**: Elimina un producto.
-
-- **Calcular valor del inventario**: Calcula y muestra el valor total de todos los productos.
-
-- **Buscar productos basados en un patrón**: Busca productos cuyo nombre coincida con un patrón de búsqueda basado en expresiones regulares (regex).
-
-- **Realizar compra**: Permite a un cliente realizar una compra seleccionando productos del inventario.
-
-- **Procesar el pago**: Procesa el pago de una compra y calcula el cambio.
-
-- **Agregar cliente**: Registra un nuevo cliente en la base de datos de la tienda.
-
-- **Registrar compra del cliente**: Registra una compra en el historial de un cliente y actualiza las ventas totales.
-
-- **Ver compras de un cliente**: Muestra el historial de compras de un cliente.
-
-- **Calcular las ventas totales del ecommerce**: Calcula y muestra las ventas totales.
-
-❤️ ¡Gracias por dedicarle tiempo a visualizar mi ejercicio! ❤️
+Thank you for taking the time to review my work! I hope you enjoy it as much as I did while developing it. 💡  
